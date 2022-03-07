@@ -9,3 +9,4 @@
 /app/public/bundles/
 /app/var/
 /app/vendor/
+/app/config/jwt/*.pem

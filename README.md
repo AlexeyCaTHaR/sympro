@@ -18,7 +18,9 @@ symfony console doctrine:migrations:migrate
 
 ### Make fixture and apply
 
-symfony console make:fixture QuoteFixture symfony console doctrine:fixtures:load
+symfony console make:fixture QuoteFixture
+
+symfony console doctrine:fixtures:load
 
 ### Make controller
 
