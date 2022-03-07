@@ -12,7 +12,9 @@ symfony console make:entity Quote creating fields
 
 ### Make entity migration and apply
 
-symfony console make:migration symfony console doctrine:migrations:migrate
+symfony console make:migration
+
+symfony console doctrine:migrations:migrate
 
 ### Make fixture and apply
 
