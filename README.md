@@ -1,7 +1,7 @@
 # TODO list
 
-- log
-- symfony debug panel
+- ~~log~~
+- ~~symfony debug panel~~
 - user model
 - auth with jwt
 - vue app = personal
@@ -39,3 +39,6 @@ symfony console make:controller QuoteController
 
 -----DB------------ mysql -u root -p symfony_docker
 -------------------
+
+
+composer require-dev symfony/debug

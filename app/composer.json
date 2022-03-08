@@ -14,6 +14,7 @@
     "monolog/monolog": "^2.3",
     "symfony/console": "6.0.*",
     "symfony/dotenv": "6.0.*",
+    "symfony/error-handler": "6.0.*",
     "symfony/flex": "^2",
     "symfony/framework-bundle": "6.0.*",
     "symfony/monolog-bundle": "^3.7",
@@ -27,7 +28,9 @@
   "require-dev": {
     "doctrine/doctrine-fixtures-bundle": "^3.4",
     "fakerphp/faker": "^1.19",
-    "symfony/maker-bundle": "^1.38"
+    "symfony/maker-bundle": "^1.38",
+    "symfony/stopwatch": "6.0.*",
+    "symfony/web-profiler-bundle": "6.0.*"
   },
   "config": {
     "allow-plugins": {
