@@ -1,3 +1,13 @@
+# TODO list
+
+- log
+- user model
+- auth with jwt
+- vue app = personal
+- event handler
+- value resolver
+- console command
+
 # sympro
 
 Symfony project
