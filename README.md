@@ -1,6 +1,7 @@
 # TODO list
 
 - log
+- symfony debug panel
 - user model
 - auth with jwt
 - vue app = personal
