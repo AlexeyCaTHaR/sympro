@@ -2,7 +2,7 @@
 
 - ~~log~~
 - ~~symfony debug panel~~
-- user model
+- ~~user model~~
 - auth with jwt
 - vue app = personal
 - event handler
